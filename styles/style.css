@@ -111,3 +111,90 @@ nav .btn{
     color: rgba(14, 14, 14, 0.7);
    
 }
+.future-vision{
+    width: 1024px;
+    height: 612px;
+    margin: 0px 125px 64px 125px;
+}
+.future-vision h1{
+    font-size: 32px;
+    font-weight: 420px;
+    color: rgba(14, 14, 14, 1);
+    padding-bottom: 19px;
+}
+.future-vision p{
+    font-size: 12px;
+}
+.description{
+    padding-bottom: 25px;
+}
+.card-container{
+    display: flex;
+    gap: 19px;
+    padding-bottom: 25px;
+}
+.card{
+    height: 260px;
+    width: 325px;
+    background-color: rgba(84, 144, 245, 0.2);
+    border-radius: 12px;
+}
+.card img{
+    height: 51px;
+    width: 51px;
+    padding: 25px 252px 19px 25px;
+}
+.card h3{
+    padding: 0px 25px 9px 25px;
+    font-size: 16px;
+    font-weight: 560px;
+    color: rgba(14, 14, 14, 0.8);
+}
+.card p{
+    padding: 0px 25px 0px 25px;
+}
+.card-btn{
+    height: 32px;
+    width: 97px;
+    margin: 19px 204px 25px 25px;
+    color: white;
+    font-size: 12px;
+    padding: 8px 16px;
+    background-color: rgba(84, 144, 245, 1);
+    border: none;
+    border-radius: 6px;
+    
+}
+.card2{
+   background-color: rgba(198, 228, 214, 1);
+}
+.card3{
+    background-color: #F7EBCF;
+}
+.card-btn2{
+    background-color: rgba(9, 161, 92, 1);
+}
+.card-btn3{
+    background-color: #FFC239;
+}
+.about-bd{
+    height: 204px;
+    width: 1024px;
+    background-color: white;
+    border-radius: 8px;
+    background-image: url("../assets/quote-bg.png");
+    background-repeat: no-repeat;
+    background-size: 51px 51px;
+    background-position-x: 2%;
+    background-position-y: 8%;
+}
+.think-about{
+    padding: 38px 19px 9px 19px;
+}
+.about-bd h3{
+    padding-left: 19px;
+    padding-bottom: 3px;
+}
+.identity{
+    padding-left: 19px; 
+}
