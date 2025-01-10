@@ -1,0 +1,77 @@
+
+
+.open-sans-normal {
+  font-family: "Open Sans", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+    background-color: rgba(241, 241, 243, 1);
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    width: 1275px;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+nav h1{
+    margin: 24px 0px 24px 125px;
+    font-size: 25px;
+    font-weight: bold;
+    color: #0E0E0E;
+}
+nav .btn{
+    height: 41px;
+    width: 92px;
+    margin: 19px 140px 19px 0px;
+    padding: 12px 24px;
+    color: #006A50;
+    border-radius: 6px;
+    background-color: white;
+    border: 1px solid #006A50;
+}
+.banner{
+    display: flex;
+    margin: 16px 125px 64px 125px;
+    gap: 51px;
+    background-color: rgba(198, 228, 214, 1);
+    border-radius: 19px;
+   
+}
+.banner-textarea{
+    height: 260px;
+    width: 497px;
+    padding: 93px 0px 93px 47px;
+}
+.banner-textarea p{
+    font-size: 19px;
+    font-weight: 320px;
+    color: rgba(14, 14, 14, 0.5);
+    margin-bottom: 12px;
+}
+.banner-textarea h1{
+    font-size: 36px;
+    font-weight: 300px;
+    color: rgba(14, 14, 14, 1);
+    margin-bottom: 16px;
+}
+.banner-btn{
+    height: 44px;
+    width: 215px;
+    color: white;
+    background-color: rgba(0, 106, 80, 1);
+    padding: 13px 27px;
+    border-radius: 6px;
+    border: none;
+}
+.banner-image img{
+    height: 320px;
+    width: 379px;
+    padding: 64px 47px 64px 0px;
+}
