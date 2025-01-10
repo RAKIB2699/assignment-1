@@ -75,3 +75,39 @@ nav .btn{
     width: 379px;
     padding: 64px 47px 64px 0px;
 }
+.pillar{
+    margin: 0px 125px 64px 125px;
+}
+.pillar h2{
+    font-size: 30px;
+    font-weight: 560px;
+    padding-bottom: 25px;
+}
+.foundation{
+    display: flex;
+    gap: 19px;
+}
+.development{
+    width: 240px;
+    height: 195px;
+    border-radius: 12px;
+    background-color: white
+    
+}
+.development img{
+    height: 51px;
+    width: 51px;
+    padding: 19px 0px 19px 19px;
+}
+.development h3{
+    font-size: 16px;
+    font-weight: 300px;
+    color: rgba(14, 14, 14, 0.8);
+    padding: 0px 19px 9px 19px ;
+}
+.development p{
+    font-size: 12px;
+    padding: 0px 19px 19px 19px;
+    color: rgba(14, 14, 14, 0.7);
+   
+}
