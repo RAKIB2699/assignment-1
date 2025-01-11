@@ -368,11 +368,14 @@ select{
     margin-bottom: 25px;
     
 }
+.money2{
+    background-color: rgba(198, 228, 214, 1);
+}
 .money h1{
     padding: 32px;
 }
 .money:hover{
-    background-color: rgba(198, 228, 214, 1);
+    background-color: rgb(198, 216, 228);
 }
 input[type=text]{
     width: 825px;
